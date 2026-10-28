@@ -323,7 +323,7 @@ export default function App() {
           }}
           aria-label="SOKE 首页"
         >
-          <img className="brand-mark" src="/logo-mark.png" alt="" />
+          <img className="brand-mark" src="/logo-mark.svg" alt="" />
           <img className="brand-name" src="/wordmark.svg" alt="SOKE" />
         </a>
         <nav aria-label="主导航">
